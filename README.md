@@ -1,7 +1,7 @@
 ## "Organizer" is application made for Software Engineering course.
 
 ### It is application that helps to organize your life through 4 main features:
-### - Calendar, Notes, Tasks and Budget
+### Calendar, Notes, Tasks and Budget
 
 ### Made in C++, WinForms and SQL Server
 
